@@ -1,0 +1,22 @@
+{
+  "name": "task_spesial_1-",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "taks_1": "node ./taks_1",
+    "taks_3": "node ./taks_3",
+    "taks_4": "node ./taks_4"
+  },
+  "author": "Ariawan",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "install": "^0.13.0",
+    "json-to-table": "^4.2.1",
+    "npm": "^8.13.2",
+    "sqlite3": "^5.0.8",
+    "url": "^0.11.0"
+  }
+}
